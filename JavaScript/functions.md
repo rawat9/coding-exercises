@@ -1,8 +1,8 @@
 ### Functions
 - A function is a block of code designed to perform a certain task.
-- A function is defined with the function keyword, followed by a *name*, followed by *parentheses* ().
+- A function is defined with the function keyword, followed by a *name*, followed by *parentheses* `()`.
 - The function may include parameter separated by commas, such as (*parameter1*, *parameter2*, ..)
-- The code to be executed, by the function, is placed inside curly brackets: {}
+- The code to be executed, by the function, is placed inside curly brackets: `{}`
 
 Here is an example,
 
