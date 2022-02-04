@@ -13,3 +13,11 @@
 	* If the person is at least 13 years old but less than 20, print a message that the person is a teenager.
 	* If the person is at least 20 years old but less than 65, print a message that the person is an adult.
 	* If the person is age 65 or older, print a message that the person is an elder.
+
+- Write a function that takes two numbers and returns the largest number of the two.
+
+- Write a function that takes two numbers and returns the smallest number of the two.
+
+- Write a function that takes a price (number) and a discount value (percentage) and returns the final price.
+
+- Write a function that takes a string and returns only the first and last characters.
