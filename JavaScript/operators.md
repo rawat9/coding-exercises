@@ -43,3 +43,8 @@ Given that x = 5, the table below explains the comparison operators:
 |   ===    |     Value and type are equal      |  x === 5  |  true   |
 |    !=    |           Not equal to            |  x != 8   |  true   |
 |   !==    | Not equal value or not equal type | x !=== 5  |  false  |
+
+
+----
+
+> Test all the above examples in your code editor
