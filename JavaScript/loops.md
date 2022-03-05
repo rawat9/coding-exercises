@@ -39,3 +39,5 @@ for (let i = 0; i < 5; i++) {
 - Write a program to print numbers from 1 to 10.
 - Write a program to print number from 10 to 1.
 - Write a program to calculate the sum of first 10 natural number.
+- Write a program to compute the number of odd numbers between two numbers `a` and `b`.
+
